@@ -3,7 +3,9 @@ This is an AI Information System that uses Retrieval Augmented System(RAG) desig
 Uses:
 
 langchain
+
 ChatGroq(langchain-groq)
+
 HuggingFace Embeddings(langchain_huggingface)
 
 Requires a ChatGroq API key. The key is exported (using EXPORT CHATGROQ_API_KEY="your_key_here") and read at runtime.
